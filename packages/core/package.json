@@ -41,11 +41,11 @@
     "url": "https://github.com/swc-project/swc-node/issues"
   },
   "peerDependencies": {
-    "@swc/core": ">=1.15.43",
+    "@swc/core": ">=1.16.1",
     "@swc/types": ">= 0.1"
   },
   "devDependencies": {
-    "@swc/core": "^1.15.47",
+    "@swc/core": "^1.16.1",
     "@swc/types": "^0.1.28"
   },
   "funding": {

@@ -4,17 +4,17 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "file-type": "^22.0.1",
+    "file-type": "^22.0.2",
     "p-timeout": "^7.0.1"
   },
   "devDependencies": {
     "@napi-rs/simple-git": "^1.1.0",
-    "@swc/core": "^1.15.47",
+    "@swc/core": "^1.16.1",
     "@swc-node/register": "1.12.1",
     "@types/react": "^19.2.18",
-    "@types/react-dom": "^19.2.4",
+    "@types/react-dom": "^19.2.7",
     "esmock": "^2.7.6",
-    "ipaddr.js": "^2.4.0",
+    "ipaddr.js": "^2.5.0",
     "postgres": "^3.4.9",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
