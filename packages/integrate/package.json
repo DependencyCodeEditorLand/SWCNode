@@ -23,11 +23,11 @@
     "@swc-node/core": "^1.15.0",
     "@swc-node/register": "1.12.1",
     "@types/jest": "^30.0.0",
-    "@types/react": "^19.2.18",
-    "@types/react-dom": "^19.2.7",
-    "jest": "^30.5.1",
-    "react": "^19.2.8",
-    "react-dom": "^19.2.8",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "jest": "^30.5.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
     "sinon": "^22.1.0",
     "typescript": "^7.0.2"
   }

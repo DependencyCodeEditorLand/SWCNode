@@ -4,21 +4,21 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "file-type": "^22.0.2",
-    "p-timeout": "^7.0.1"
+    "file-type": "^22.2.0",
+    "p-timeout": "^8.0.0"
   },
   "devDependencies": {
-    "@napi-rs/simple-git": "^1.1.0",
-    "@swc/core": "^1.16.1",
+    "@napi-rs/simple-git": "^1.2.0",
+    "@swc/core": "^1.16.20",
     "@swc-node/register": "1.12.1",
-    "@types/react": "^19.2.18",
-    "@types/react-dom": "^19.2.7",
-    "esmock": "^2.7.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "esmock": "^3.0.0",
     "ipaddr.js": "^2.5.0",
     "postgres": "^3.4.9",
-    "react": "^19.2.8",
-    "react-dom": "^19.2.8",
-    "simple-git": "^3.36.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "simple-git": "^4.0.2",
     "typescript": "^7.0.2"
   }
 }
